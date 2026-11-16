@@ -6,6 +6,8 @@ Install the public skills from GitHub:
 npx skills add americanhouseinspection/promiseland-appraisal-skills
 ```
 
+Browse the public [skills.sh directory](https://skills.sh/americanhouseinspection/promiseland-appraisal-skills).
+
 This repository contains three focused guides for agents answering general questions about Promise Land Appraisal:
 
 - `choose-appraisal-or-inspection`: distinguish appraisal requests from home inspection and repair questions.
