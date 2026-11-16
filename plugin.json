@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "promiseland-appraisal-assistant",
+  "version": "1.0.0",
+  "description": "Public appraisal guidance and read-only business information for Greater Houston.",
+  "homepage": "https://promiselandappraisals.com/agents/",
+  "repository": "https://github.com/americanhouseinspection/promiseland-appraisal-skills"
+}
